@@ -76,7 +76,7 @@ The workflow included data cleaning, handling multi-collinearity, encoding varia
 ### 3. Model Training
 - Implemented a **Random Forest Regression** model in R.  
 - Used an 80/20 train–validation split.  
-- Achieved a validation **MSE of 0.23332**, demonstrating stable model performance.
+- Achieved a validation **MSE of 0.1217049**, demonstrating stable model performance.
 
 ### 4. Prediction & Evaluation
 - Generated sale price predictions for the new property dataset.  
